@@ -1,5 +1,7 @@
 scikit-learn==1.2.2
 pandas
-numpy
+plotly
 streamlit
+pandas-datareader
+numpy
 opencv-python
