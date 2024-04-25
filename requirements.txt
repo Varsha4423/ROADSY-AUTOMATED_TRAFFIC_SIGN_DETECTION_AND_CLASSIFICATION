@@ -4,5 +4,5 @@ streamlit
 yfinance
 pandas-datareader
 prophet
-opencv-python 
-ultralytics
+opencv-python
+ultralytics==8.0.232
