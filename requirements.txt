@@ -1,5 +1,6 @@
 pandas
 plotly
 streamlit
+yfinance
 pandas-datareader
-opencv-python
+
