@@ -6,3 +6,4 @@ pandas-datareader
 prophet
 opencv-python
 ultralytics==8.0.232
+gTTS
